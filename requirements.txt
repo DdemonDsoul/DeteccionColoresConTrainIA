@@ -1,0 +1,11 @@
+# Visión Artificial y Procesamiento de Imagen
+opencv-python-headless
+numpy
+
+# Inteligencia Artificial y Deep Learning
+tensorflow
+keras
+pillow
+
+# Interfaz Gráfica
+tk
